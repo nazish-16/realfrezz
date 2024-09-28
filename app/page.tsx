@@ -1,9 +1,17 @@
+import Homepage from "@/components/Homepage";
 import Navbar from "@/components/Navbar";
+import About from "@/components/About";
+import Tech from "@/components/Tech";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
   return (
-      <div className="bg-[radial-gradient(circle_at_top_left,_#1e293b,_#2f2747,_#1c2f4d)] h-screen">
+      <div className="bg-[#13243c] h-screen">
         <Navbar />
+        <Homepage/>
+        <About/>
+        <Tech/>
+        <Testimonials/>
       </div>    
   );
 }

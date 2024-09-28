@@ -16,7 +16,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Nazish Ahmed",
   description: "Portfolio for Nazish Ahmed",
-  icons: 'https://i.pinimg.com/280x280_RS/b1/2d/56/b12d56e268530ce5c06603d755d39ec7.jpg'
+  icons: 'https://img.icons8.com/?size=100&id=4i8EFdsgyQ2M&format=png&color=228BE6'
 };
 
 export default function RootLayout({
