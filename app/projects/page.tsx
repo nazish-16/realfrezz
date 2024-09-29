@@ -26,7 +26,7 @@ const page = () => {
           </div>
           <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
               <Image src={curtain} alt="news" className='w-[20rem] h-[16rem] rounded-lg'/>
-              <h1 className='text-white p-4 text-2xl font-mono'>Sayeedia's</h1>
+              <h1 className='text-white p-4 text-2xl font-mono'>Sayeedias</h1>
               <p className='max-w-[20rem] p-5 text-[#969da9]'>Sayedia's Curtain Collection is a premium home decor brand specializing in luxurious, custom-made curtains.</p>
               <Link target='_blank' href="https://sayeedia.vercel.app/" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
           </div>
@@ -38,7 +38,7 @@ const page = () => {
           </div>
           <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
               <Image src={sofi} alt="news" className='w-[20rem] rounded-lg'/>
-              <h1 className='text-white p-4 text-2xl font-mono'>Sofi's web</h1>
+              <h1 className='text-white p-4 text-2xl font-mono'>Sofi web</h1>
               <p className='max-w-[20rem] p-4 text-[#969da9]'>Helped in creating the web of Sofi using react.js as an intern in the company.</p>
               <Link target='_blank' href="https://sofi.gg/" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
           </div>
