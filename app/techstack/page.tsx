@@ -63,7 +63,7 @@ const page = () => {
                 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="" className='w-24' />
                 <h1 className='text-white p-4 text-xl'>Python</h1>
             </div>
-            <div className='items-center justify-center flex flex-col m-5 bg-[#1e2837] p-5 rounded-e-md'>
+            <div className='items-center justify-center flex flex-col m-5 bg-[#1e2837] p-5 rounded-e-md hover:scale-105 transition'>
                 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="" className='w-24' />
                 <h1 className='text-white p-4 text-xl'>Javascript</h1>
             </div>

@@ -13,7 +13,7 @@ const page = () => {
   return (
     <div className='h-screen flex flex-col items-center justify-center'>
       <Navbar/>
-      <div className='relative top-[1400px] md:top-[600px] lg:top-[380px] flex flex-col items-center justify-center'>
+      <div className='relative top-[1500px] md:top-[600px] lg:top-[380px] flex flex-col items-center justify-center'>
         <div>
         <p className='font-mono tracking-tight text-6xl sm:text-2xl text-white text-center lg:text-start font-extrabold'><span className='text-transparent text-4xl lg:text-5xl bg-clip-text bg-gradient-to-r from-[#0d9cf6] to-[#00c7bd]'>Projects</span><br className='md:hidden' /></p>
         </div>
