@@ -16,7 +16,7 @@ const Homepage = () => {
             <p className='max-w-3xl font-mono text-md lg:text-md text-white m-4 text-center lg:text-start'>Dedicated to refining my skills and staying at the forefront of the ever-evolving development and startup landscape.</p>
             <p className='max-w-3xl font-mono text-md lg:text-md text-white m-4 text-center lg:text-start'>With a passion for building innovative solutions, I aim to leverage my expertise in full-stack development to create impactful projects.</p>
             <div className='p-3 items-center flex  lg:justify-start justify-center'>
-                <Link href="#" className='font-mono text-white bg-[#2462eb] pr-5 pl-5 pt-3 pb-3 rounded-md hover:bg-[#286cffb6]'>Get in touch</Link>
+                <Link href="mailto:realnazishahmed@gmail.com" className='font-mono text-white bg-[#2462eb] pr-5 pl-5 pt-3 pb-3 rounded-md hover:bg-[#286cffb6]'>Get in touch</Link>
              </div>
         </div>
         <div className='hidde md:flex'></div>
