@@ -63,14 +63,14 @@ const Tech = () => {
                 <div className='bg-[#18354d80] m-7 md:m-5 rounded-md border border-[#324050] p-5 w-[20rem] md:w-[26rem] text-white font-mono hover:scale-105 transition-all'>
                 <div className='flex flex-row justify-between'>
                     <div>
-                        <h1 className='mb-2'>Leadership Skills</h1>
+                        <h1 className='mb-2'>Backend Development</h1>
                     </div>
                     <div>
-                        35%
+                        65%
                     </div>
                 </div>
                     <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                        <div className="bg-blue-600 h-2.5 rounded-full w-2/5"></div>
+                        <div className="bg-blue-600 h-2.5 rounded-full w-3/5"></div>
                     </div>
                 </div>
             </div>

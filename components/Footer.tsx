@@ -3,9 +3,12 @@ import Link from 'next/link'
 
 const Footer = () => {
     return (
-        <div className='md:py-20 flex flex-row items-center justify-center relative md:top-20 top-[1300px] m-10' id='contact'>
+        <div className='md:py-20 flex flex-row items-center justify-center relative sm:top-[1100px] md:top-[200px] top-[1250px] p-10' id='contact'>
             <Link href="https://github.com/nazish-16">
                 <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" alt="github" width={30} className='m-2 hover:translate-y-[-2px] transition' />
+            </Link>
+            <Link href="https://discord.com/users/775387817085108235">
+                <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=FFFFFF" alt="Linkedin" width={30} className='m-2 hover:translate-y-[-2px] transition' />
             </Link>
             <Link href="https://www.patreon.com/user?u=60690928">
                 <img src="https://img.icons8.com/?size=100&id=tIshI0hyXw3f&format=png&color=FFFFFF" alt="github" width={30} className='m-2 hover:translate-y-[-2px] transition' />
