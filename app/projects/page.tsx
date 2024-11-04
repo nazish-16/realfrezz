@@ -18,11 +18,11 @@ const page = () => {
         <p className='font-mono tracking-tight text-6xl sm:text-2xl text-white text-center lg:text-start font-extrabold'><span className='text-transparent text-4xl lg:text-5xl bg-clip-text bg-gradient-to-r from-[#0d9cf6] to-[#00c7bd]'>Projects</span><br className='md:hidden' /></p>
         </div>
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 relative top-10'>
-        <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
-              <Image src={news} alt="news" className='w-[20rem] rounded-lg'/>
-              <h1 className='text-white p-4 text-2xl font-mono'>Informant</h1>
-              <p className='max-w-[20rem] p-5 text-[#969da9]'>A responsive news blog featuring real-time updates, categories, search functionality, and user-friendly interface.</p>
-              <Link target='_blank' href="https://github.com/nazish-16/news-monkey" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
+          <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
+              <Image src={tesla} alt="news" className='w-[17rem] h-[17rem] rounded-lg'/>
+              <h1 className='text-white p-4 text-2xl font-mono'>Shakti.io</h1>
+              <p className='max-w-[20rem] p-5 text-[#969da9]'>The Shakti Fitness app website is a user-friendly platform for tracking workouts, fitness goals, and accessing health tips.</p>
+              <Link target='_blank' href="https://shakti-fitness-app.vercel.app/" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
           </div>
           <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
               <Image src={curtain} alt="news" className='w-[20rem] h-[16rem] rounded-lg'/>
@@ -48,11 +48,11 @@ const page = () => {
               <p className='max-w-[20rem] p-3 text-[#969da9]'>Jagsco Interiors specializes in luxurious marble designs, offering timeless elegance and craftsmanship for sophisticated spaces.</p>
               <Link target='_blank' href="https://jagsco.vercel.app/" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
           </div>
-          <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
-              <Image src={tesla} alt="news" className='w-[20rem] h-[17rem] rounded-lg'/>
-              <h1 className='text-white p-4 text-2xl font-mono'>Tesla Clone</h1>
-              <p className='max-w-[20rem] p-5 text-[#969da9]'>Cloned the Web application of Tesla using Next.js and Tailwind CSS, replicating its design, responsiveness, and user experience.</p>
-              <Link target='_blank' href="https://tesla-clone-60b33.web.app/" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
+        <div className='bg-[#1e2936] border border-[#969da964] rounded-lg m-5 h-[34rem] items-center flex flex-col hover:scale-105 transition-all'>
+              <Image src={news} alt="news" className='w-[20rem] rounded-lg'/>
+              <h1 className='text-white p-4 text-2xl font-mono'>Informant</h1>
+              <p className='max-w-[20rem] p-5 text-[#969da9]'>A responsive news blog featuring real-time updates, categories, search functionality, and user-friendly interface.</p>
+              <Link target='_blank' href="https://github.com/nazish-16/news-monkey" className='bg-[#2462eb] w-[280px] pr-20 pl-20 pt-2 pb-2 rounded-lg text-white items-center hover:bg-[#2463ebcd]'>Learn More →</Link>
           </div>
         </div>
       </div>

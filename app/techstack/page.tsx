@@ -56,6 +56,10 @@ const page = () => {
                 <h1 className='text-white p-4 text-xl'>ExpressJS</h1>
             </div>
             <div className='items-center justify-center flex flex-col m-5 bg-[#1e2837] p-5 rounded-lg hover:scale-105 transition'>
+                <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="" className='w-24' />
+                <h1 className='text-white p-4 text-xl'>MongoDB</h1>
+            </div>
+            <div className='items-center justify-center flex flex-col m-5 bg-[#1e2837] p-5 rounded-lg hover:scale-105 transition'>
                 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="" className='w-24' />
                 <h1 className='text-white p-4 text-xl'>Git VCS</h1>
             </div>
