@@ -5,8 +5,8 @@ const page = () => {
   return (
     <div className='items-center justify-center flex flex-col h-screen'>
         <Navbar/>
-        <p className='relative top-[950px] md:top-96 lg:top-72 xl:top-32 font-mono tracking-tight text-6xl sm:text-2xl text-white text-center lg:text-start font-extrabold'><span className='text-transparent text-4xl lg:text-5xl bg-clip-text bg-gradient-to-r from-[#0d9cf6] to-[#00c7bd]'>Tech Stack</span><br className='md:hidden' /></p>
-        <div className='grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7 relative top-[950px] md:top-96 lg:top-72 xl:top-36'>
+        <p className='relative top-[1050px] md:top-96 lg:top-72 xl:top-32 font-mono tracking-tight text-6xl sm:text-2xl text-white text-center lg:text-start font-extrabold'><span className='text-transparent text-4xl lg:text-5xl bg-clip-text bg-gradient-to-r from-[#0d9cf6] to-[#00c7bd]'>Tech Stack</span><br className='md:hidden' /></p>
+        <div className='grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7 relative top-[1050px] md:top-96 lg:top-72 xl:top-36'>
             <div className='items-center justify-center flex flex-col m-5 bg-[#1e2837] p-5 rounded-lg hover:scale-105 transition'>
                 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="" className='w-24' />
                 <h1 className='text-white p-4 text-xl'>ReactJS</h1>
